@@ -1,0 +1,11 @@
+{
+  "InputFile": "output.json",
+  "Level0": true,
+  "Level1": false,
+  "Level2": true,
+  "Level3": false,
+  "Level4": true,
+  "Level5": false,
+  "Random": true,
+  "MaxItems": 10
+}

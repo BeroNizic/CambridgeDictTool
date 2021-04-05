@@ -1,0 +1,788 @@
+[
+  {
+    "Text": "sbrigare",
+    "Level": 0,
+    "Meanings": [
+      {
+        "From": "(fare)",
+        "To": "to take care of, to deal with",
+        "Usage": "",
+        "Synonyms": [
+          "concludere",
+          "svolgere",
+          "sbrogliare"
+        ],
+        "Antonyms": [],
+        "Phrases": [
+          {
+            "From": "sbrigare le faccende domestiche",
+            "To": "to do housework"
+          },
+          {
+            "From": "sbrigare una pratica",
+            "To": "to handle a procedure"
+          },
+          {
+            "From": "sbrigarsela",
+            "To": "to deal with easily"
+          }
+        ],
+        "Examples": [
+          {
+            "From": "Sbrigo questa faccenda e poi ti raggiungo.",
+            "To": "I’ll take care of this matter and then come meet you."
+          },
+          {
+            "From": "Lascia che se la sbrighi da solo!",
+            "To": "Let him handle it by himself!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Text": "pestare",
+    "Level": 0,
+    "Meanings": [
+      {
+        "From": "(con i piedi)",
+        "To": "to step on, to press",
+        "Usage": "",
+        "Synonyms": [
+          "calpestare"
+        ],
+        "Antonyms": [],
+        "Phrases": [
+          {
+            "From": "pestare i calli a qlcu",
+            "To": "to step on sb’s toes"
+          }
+        ],
+        "Examples": [
+          {
+            "From": "pestare l’uva",
+            "To": "to press grapes"
+          },
+          {
+            "From": "pestare i fiori",
+            "To": "to step on flowers"
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to crush",
+        "Usage": "figurative",
+        "Synonyms": [
+          "triturare",
+          "frantumare"
+        ],
+        "Antonyms": [],
+        "Phrases": [
+          {
+            "From": "pestare l’acqua nel mortaio",
+            "To": "to beat a dead horse"
+          }
+        ],
+        "Examples": [
+          {
+            "From": "pestare il pepe",
+            "To": "to crush pepper"
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to beat up, to hit, to pound",
+        "Usage": "",
+        "Synonyms": [
+          "picchiare",
+          "malmenare"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "pestare qlcu a sangue",
+            "To": "to beat sb to death"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Text": "commettere",
+    "Level": 0,
+    "Meanings": [
+      {
+        "From": "(compiere)",
+        "To": "to commit",
+        "Usage": "",
+        "Synonyms": [],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "commettere un reato",
+            "To": "to commit a crime"
+          },
+          {
+            "From": "commettere un peccato",
+            "To": "to commit a sin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Text": "accogliere",
+    "Level": 0,
+    "Meanings": [
+      {
+        "From": "(ricevere)",
+        "To": "to receive, to welcome",
+        "Usage": "",
+        "Synonyms": [],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "accogliere con gioia un amico",
+            "To": "to heartily welcome a friend"
+          },
+          {
+            "From": "accogliere qlcu in casa propria",
+            "To": "to welcome sb to your home"
+          },
+          {
+            "From": "accogliere una notizia",
+            "To": "to receive some news"
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to accept, to adopt",
+        "Usage": "",
+        "Synonyms": [
+          "approvare",
+          "esaudire",
+          "accettare"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "accogliere un’iniziativa",
+            "To": "to adopt an initiative"
+          },
+          {
+            "From": "accogliere una domanda",
+            "To": "to accept a claim"
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to hold",
+        "Usage": "luogo",
+        "Synonyms": [
+          "ospitare",
+          "contenere"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "Lo stadio accoglie cinquantamila spettatori.",
+            "To": "The stadium holds 5,000 spectators."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Text": "sciogliere",
+    "Level": 0,
+    "Meanings": [
+      {
+        "From": "(disfare)",
+        "To": "to unravel, to untie, to loosen",
+        "Usage": "",
+        "Synonyms": [
+          "snodare",
+          "slegare"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "sciogliere un nodo",
+            "To": "to untie a knot"
+          },
+          {
+            "From": "sciogliersi i capelli",
+            "To": "to let one’s hair down"
+          }
+        ]
+      },
+      {
+        "From": "(da catene)",
+        "To": "to release, to set free",
+        "Usage": "",
+        "Synonyms": [],
+        "Antonyms": [],
+        "Phrases": [
+          {
+            "From": "sciogliere i muscoli",
+            "To": "to loosen up one’s muscles"
+          }
+        ],
+        "Examples": [
+          {
+            "From": "sciogliere il cane dal guinzaglio",
+            "To": "to let the dog off the leash"
+          }
+        ]
+      },
+      {
+        "From": "(da un impegno)",
+        "To": "to release, to free",
+        "Usage": "figurative",
+        "Synonyms": [],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "sciogliere qlcu da un obbligo",
+            "To": "to release sb from an obligation"
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to melt, to thaw, to liquefy",
+        "Usage": "",
+        "Synonyms": [
+          "liquefare",
+          "fondere"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "Il calore ha sciolto il ghiaccio.",
+            "To": "The heat melted the ice."
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to dissolve",
+        "Usage": "",
+        "Synonyms": [
+          "dissolvere"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": []
+      },
+      {
+        "From": "",
+        "To": "to annul, to cancel",
+        "Usage": "",
+        "Synonyms": [
+          "annullare",
+          "rescindere"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "sciogliere un contratto",
+            "To": "to annul a contract"
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to dissolve, to break up/off",
+        "Usage": "",
+        "Synonyms": [
+          "sopprimere"
+        ],
+        "Antonyms": [],
+        "Phrases": [
+          {
+            "From": "sciogliere le Camere",
+            "To": "to dissolve Parliament"
+          }
+        ],
+        "Examples": [
+          {
+            "From": "sciogliere una società",
+            "To": "to dissolve a partnership"
+          },
+          {
+            "From": "sciogliere il fidanzamento",
+            "To": "to break off an engagement"
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to close, to end, to dissolve",
+        "Usage": "",
+        "Synonyms": [
+          "interrompere"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "sciogliere un’assemblea",
+            "To": "to close a board meeting"
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to resolve/solve",
+        "Usage": "",
+        "Synonyms": [
+          "risolvere",
+          "chiarire"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "sciogliere un problema",
+            "To": "to resolve a problem"
+          },
+          {
+            "From": "sciogliere un enigma",
+            "To": "to solve a riddle"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Text": "trarre",
+    "Level": 0,
+    "Meanings": [
+      {
+        "From": "",
+        "To": "to pull, to drag, to draw",
+        "Usage": "anche figurative",
+        "Synonyms": [
+          "tirare",
+          "trascinare"
+        ],
+        "Antonyms": [],
+        "Phrases": [
+          {
+            "From": "trarre in errore",
+            "To": "to lead into error"
+          },
+          {
+            "From": "trarre in inganno",
+            "To": "to mislead"
+          }
+        ],
+        "Examples": [
+          {
+            "From": "trarre la barca a riva",
+            "To": "to drag a boat to shore"
+          },
+          {
+            "From": "trarre qlcu in salvo",
+            "To": "to pull sb to safety"
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to draw/pull out",
+        "Usage": "",
+        "Synonyms": [
+          "estrarre",
+          "togliere"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "Dalla tasca trasse una pistola.",
+            "To": "He drew a gun from his pocket."
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to pull/get out of",
+        "Usage": "",
+        "Synonyms": [
+          "liberare"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "trarre d’impaccio",
+            "To": "to get out of a bind"
+          }
+        ]
+      },
+      {
+        "From": "(ricavare)",
+        "To": "to benefit from, to get",
+        "Usage": "anche figurative",
+        "Synonyms": [
+          "ottenere",
+          "conseguire"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "trarre beneficio da una cura",
+            "To": "to benefit from a cure"
+          },
+          {
+            "From": "trarre vantaggio da una situazione",
+            "To": "to benefit from a situation"
+          },
+          {
+            "From": "trarre ispirazione da un fatto realmente accaduto",
+            "To": "to draw inspiration from a real event"
+          },
+          {
+            "From": "Il film è tratto dall’omonimo romanzo.",
+            "To": "The movie is taken from the novel of the same name."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Text": "levare",
+    "Level": 0,
+    "Meanings": [
+      {
+        "From": "",
+        "To": "to lift, to raise",
+        "Usage": "",
+        "Synonyms": [
+          "alzare",
+          "sollevare"
+        ],
+        "Antonyms": [],
+        "Phrases": [
+          {
+            "From": "levare l’ancora",
+            "To": "to weigh anchor"
+          }
+        ],
+        "Examples": [
+          {
+            "From": "levare le braccia al cielo",
+            "To": "to lift one’s arms to the sky"
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to remove, to take away",
+        "Usage": "familiar",
+        "Synonyms": [
+          "togliere",
+          "rimuovere"
+        ],
+        "Antonyms": [],
+        "Phrases": [
+          {
+            "From": "levare le tende",
+            "To": "to pull up stakes"
+          },
+          {
+            "From": "levare di mezzo qlco",
+            "To": "to get rid of sth"
+          },
+          {
+            "From": "levare di mezzo qlcu",
+            "To": "to get rid of sb"
+          },
+          {
+            "From": "levarsi la voglia",
+            "To": "to satisfy a desire"
+          },
+          {
+            "From": "levarsi il pane dalla bocca per qlcu",
+            "To": "to make sacrifices for sb’s benefit"
+          }
+        ],
+        "Examples": [
+          {
+            "From": "levare una macchia",
+            "To": "to remove a stain"
+          },
+          {
+            "From": "levare il cappotto",
+            "To": "to take off one’s hat"
+          },
+          {
+            "From": "levare un divieto",
+            "To": "to lift a ban"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Text": "beccare",
+    "Level": 0,
+    "Meanings": [
+      {
+        "From": "(col becco)",
+        "To": "to peck",
+        "Usage": "uccello",
+        "Synonyms": [],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "La gallina becca il granoturco.",
+            "To": "Hens peck corn."
+          }
+        ]
+      },
+      {
+        "From": "(in flagrante)",
+        "To": "to catch, to surprise",
+        "Usage": "figurative",
+        "Synonyms": [
+          "sorprendere",
+          "scoprire",
+          "acciuffare"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "L’hanno beccato mentre passava col rosso.",
+            "To": "They caught her running a red light."
+          }
+        ]
+      },
+      {
+        "From": "(ottenere)",
+        "To": "to get, to receive",
+        "Usage": "familiar",
+        "Synonyms": [
+          "ricevere"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "Si è beccato una bella ricompensa.",
+            "To": "He got a big reward."
+          }
+        ]
+      },
+      {
+        "From": "(prendersi)",
+        "To": "to get, to catch",
+        "Usage": "familiar",
+        "Synonyms": [],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "beccarsi un ceffone",
+            "To": "to get a slap"
+          },
+          {
+            "From": "beccare l’influenza",
+            "To": "to catch the flu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Text": "spargere",
+    "Level": 0,
+    "Meanings": [
+      {
+        "From": "(gettare)",
+        "To": "to scatter, to spread, to strew",
+        "Usage": "",
+        "Synonyms": [
+          "sparpagliare"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "spargere la semenza",
+            "To": "to scatter seeds"
+          },
+          {
+            "From": "spargere le carte sulla scrivania",
+            "To": "to spread papers on the desk"
+          }
+        ]
+      },
+      {
+        "From": "(versare)",
+        "To": "to spill, to pour out, to shed",
+        "Usage": "liquido",
+        "Synonyms": [
+          "spandere"
+        ],
+        "Antonyms": [],
+        "Phrases": [
+          {
+            "From": "spargere lacrime",
+            "To": "to shed tears"
+          },
+          {
+            "From": "spargere sangue",
+            "To": "to spill blood"
+          }
+        ],
+        "Examples": [
+          {
+            "From": "spargere il vino sulla tavola",
+            "To": "to spill wine on the table"
+          }
+        ]
+      },
+      {
+        "From": "(di qlco)",
+        "To": "to spread, to strew",
+        "Usage": "",
+        "Synonyms": [
+          "cospargere"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "spargere di segatura il pavimento",
+            "To": "to spread sawdust on the floor"
+          }
+        ]
+      },
+      {
+        "From": "(diffondere)",
+        "To": "to emit, to give off",
+        "Usage": "",
+        "Synonyms": [
+          "emanare",
+          "espandere"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "spargere calore",
+            "To": "to emit heat"
+          }
+        ]
+      },
+      {
+        "From": "(comunicare)",
+        "To": "to spread, to circulate, to divulge",
+        "Usage": "figurative",
+        "Synonyms": [
+          "divulgare"
+        ],
+        "Antonyms": [],
+        "Phrases": [
+          {
+            "From": "spargere la voce",
+            "To": "to spread a rumor"
+          }
+        ],
+        "Examples": [
+          {
+            "From": "spargere una notizia",
+            "To": "to spread a story"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Text": "svolgere",
+    "Level": 0,
+    "Meanings": [
+      {
+        "From": "(aprire / spiegare)",
+        "To": "to unroll/unwind/unwrap",
+        "Usage": "",
+        "Synonyms": [
+          "disfare"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "svolgere un rotolo",
+            "To": "to unroll a spool"
+          },
+          {
+            "From": "svolgere un pacchetto",
+            "To": "to unwrap a package"
+          }
+        ]
+      },
+      {
+        "From": "(trattare)",
+        "To": "to develop, to expand/expound",
+        "Usage": "",
+        "Synonyms": [
+          "sviluppare",
+          "illustrare"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "svolgere un argomento",
+            "To": "to expound on a topic"
+          },
+          {
+            "From": "svolgere un tema",
+            "To": "to develop a theme"
+          }
+        ]
+      },
+      {
+        "From": "(compiere)",
+        "To": "to perform, to carry out",
+        "Usage": "figurative",
+        "Synonyms": [
+          "eseguire",
+          "realizzare"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "svolgere un lavoro",
+            "To": "to carry out a task"
+          },
+          {
+            "From": "svolgere un’attività",
+            "To": "to perform an activity"
+          }
+        ]
+      }
+    ]
+  }
+]
