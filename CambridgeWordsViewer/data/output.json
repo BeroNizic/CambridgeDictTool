@@ -370,7 +370,7 @@
   },
   {
     "Text": "trarre",
-    "Level": 0,
+    "Level": 3,
     "Meanings": [
       {
         "From": "",
@@ -780,6 +780,478 @@
           {
             "From": "svolgere un’attività",
             "To": "to perform an activity"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Text": "appoggiare",
+    "Level": 0,
+    "Meanings": [
+      {
+        "From": "(contro qlco)",
+        "To": "to lean, to prop",
+        "Usage": "",
+        "Synonyms": [
+          "addossare",
+          "avvicinare"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "appoggiare la scopa al muro",
+            "To": "to lean the broom against the wall"
+          }
+        ]
+      },
+      {
+        "From": "(sopra qlco)",
+        "To": "to place gently, to lay",
+        "Usage": "",
+        "Synonyms": [
+          "deporre"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "appoggiare la valigia a terra",
+            "To": "to place the suitcase on the ground"
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to support, to back",
+        "Usage": "figurative",
+        "Synonyms": [
+          "favorire",
+          "sostenere",
+          "spalleggiare"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "appoggiare un’iniziativa",
+            "To": "to back an initiative"
+          },
+          {
+            "From": "appoggiare un candidato alle elezioni",
+            "To": "to support a candidate in an election"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Text": "reggere",
+    "Level": 0,
+    "Meanings": [
+      {
+        "From": "",
+        "To": "to bear/carry, to support, to hold up",
+        "Usage": "",
+        "Synonyms": [
+          "sorreggere",
+          "sostenere"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "reggere un bimbo che muove i primi passi.",
+            "To": "to hold up a child taking his first steps"
+          }
+        ]
+      },
+      {
+        "From": "(tenere)",
+        "To": "to take, to hold",
+        "Usage": "",
+        "Synonyms": [
+          "prendere"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "Reggi un momento la borsetta.",
+            "To": "Hold my purse for a moment."
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to manage, to run, to handle",
+        "Usage": "",
+        "Synonyms": [
+          "guidare",
+          "dirigere"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "reggere il volante",
+            "To": "to take the wheel"
+          },
+          {
+            "From": "reggere un’azienda",
+            "To": "to run a company"
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to bear, to stand, to support",
+        "Usage": "",
+        "Synonyms": [
+          "sopportare",
+          "tollerare"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "reggere il peso",
+            "To": "to bear the weight"
+          },
+          {
+            "From": "reggere la fatica",
+            "To": "to stand the strain"
+          },
+          {
+            "From": "reggere qlcu",
+            "To": "to support sb"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Text": "reggersi",
+    "Level": 0,
+    "Meanings": [
+      {
+        "From": "(in piedi)",
+        "To": "to stand (up)",
+        "Usage": "",
+        "Synonyms": [
+          "sostenersi"
+        ],
+        "Antonyms": [],
+        "Phrases": [
+          {
+            "From": "reggersi forte",
+            "To": "to hold tightly"
+          }
+        ],
+        "Examples": [
+          {
+            "From": "È così ubriaco che non si regge in piedi.",
+            "To": "He so drunk that he can’t stand straight."
+          },
+          {
+            "From": "Reggiti forte al mio braccio.",
+            "To": "Hold on to my arm tightly."
+          },
+          {
+            "From": "Reggiti forte: Paolo e Francesca si sposano.",
+            "To": "Hold on for this: Paolo and Francesca are getting married."
+          }
+        ]
+      },
+      {
+        "From": "(governarsi)",
+        "To": "to be ruled/governed as",
+        "Usage": "",
+        "Synonyms": [],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "L’Italia si regge a repubblica.",
+            "To": "Italy is a republic."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Text": "scuotere",
+    "Level": 0,
+    "Meanings": [
+      {
+        "From": "(agitare)",
+        "To": "to shake",
+        "Usage": "",
+        "Synonyms": [],
+        "Antonyms": [],
+        "Phrases": [
+          {
+            "From": "scuotere la testa",
+            "To": "to shake one’s head"
+          },
+          {
+            "From": "scuotere le spalle",
+            "To": "to shrug one’s shoulders"
+          },
+          {
+            "From": "scuotere qlcu",
+            "To": "to shake/rouse sb"
+          }
+        ],
+        "Examples": [
+          {
+            "From": "Il terremoto scosse la terra.",
+            "To": "The earthquake shook the ground."
+          },
+          {
+            "From": "scuotere qlcu dal torpore",
+            "To": "to shake sb out of their sluggishness"
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to shake (off)",
+        "Usage": "anche figurative",
+        "Synonyms": [
+          "scrollare",
+          "levare",
+          "togliere",
+          "far cadere"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "scuotere la polvere dallo straccio",
+            "To": "to shake the dust out of a rag"
+          },
+          {
+            "From": "scuotersi di dosso la paura",
+            "To": "to shake off fear"
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to shake up, to shock, to upset",
+        "Usage": "figurative",
+        "Synonyms": [
+          "turbare",
+          "agitare",
+          "sconvolgere"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "La notizia ci ha scosso profondamente.",
+            "To": "The news really shook us up."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Text": "afferrare",
+    "Level": 0,
+    "Meanings": [
+      {
+        "From": "(prendere)",
+        "To": "to grab",
+        "Usage": "",
+        "Synonyms": [
+          "agguantare",
+          "acchiappare"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "Afferra la corda!",
+            "To": "Grab the rope!"
+          }
+        ]
+      },
+      {
+        "From": "(cogliere al volo)",
+        "To": "to seize",
+        "Usage": "figurative",
+        "Synonyms": [
+          "approfittare"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": []
+      },
+      {
+        "From": "(con la mente)",
+        "To": "to grasp, to comprehend",
+        "Usage": "figurative",
+        "Synonyms": [],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "afferrare il concetto",
+            "To": "to comprehend the concept"
+          },
+          {
+            "From": "afferrare il senso",
+            "To": "to grasp the sense"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Text": "acchiappare",
+    "Level": 0,
+    "Meanings": [
+      {
+        "From": "(afferrare)",
+        "To": "to grab, to catch",
+        "Usage": "",
+        "Synonyms": [
+          "agguantare",
+          "acciuffare"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "Il gatto ha acchiappato il topo.",
+            "To": "The cat caught the mouse."
+          }
+        ]
+      },
+      {
+        "From": "(sul fatto)",
+        "To": "to catch",
+        "Usage": "familiar",
+        "Synonyms": [
+          "sorprendere"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "L’ho acchiappato mentre frugava nella mia borsa.",
+            "To": "I caught him going through my purse."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Text": "schiacciare",
+    "Level": 0,
+    "Meanings": [
+      {
+        "From": "(comprimere)",
+        "To": "to crush, to squash",
+        "Usage": "",
+        "Synonyms": [
+          "pressare",
+          "pestare"
+        ],
+        "Antonyms": [],
+        "Phrases": [
+          {
+            "From": "schiacciare un pisolino",
+            "To": "to have a short nap"
+          }
+        ],
+        "Examples": [
+          {
+            "From": "schiacciare l’uva",
+            "To": "to crush grapes"
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to push, to press",
+        "Usage": "",
+        "Synonyms": [
+          "pigiare",
+          "premere",
+          "spingere"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "schiacciare un tasto",
+            "To": "to press a button"
+          }
+        ]
+      },
+      {
+        "From": "",
+        "To": "to crush, to overwhelm, to oppress",
+        "Usage": "figurative",
+        "Synonyms": [
+          "sopraffare",
+          "annientare"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "schiacciare gli avversari",
+            "To": "to crush one’s opponents"
+          },
+          {
+            "From": "essere schiacciato dal peso del dovere",
+            "To": "to be overwhelmed by the weight of responsibility"
+          }
+        ]
+      },
+      {
+        "From": "(fare una schiacciata)",
+        "To": "to smash, to slam",
+        "Usage": "",
+        "Synonyms": [],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "schiacciare a centro campo",
+            "To": "to slam the ball in center court"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Text": "convenire",
+    "Level": 0,
+    "Meanings": [
+      {
+        "From": "(decidere)",
+        "To": "to agree (upon), to fix, to settle",
+        "Usage": "",
+        "Synonyms": [
+          "pattuire",
+          "concordare"
+        ],
+        "Antonyms": [],
+        "Phrases": [],
+        "Examples": [
+          {
+            "From": "convenire il prezzo di un prodotto",
+            "To": "to fix the price for a product"
+          },
+          {
+            "From": "convenire una spesa",
+            "To": "to agree upon an expense"
           }
         ]
       }
