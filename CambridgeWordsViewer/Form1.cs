@@ -17,6 +17,7 @@ namespace CambridgeWordsViewer
     {
         private int _current = 0;
         private List<CambridgeWord> _list = new List<CambridgeWord>();
+        private List<CambridgeWord> _fullList = new List<CambridgeWord>();
         private Settings _settings = new Settings();
 
         public Form1()
@@ -51,8 +52,9 @@ namespace CambridgeWordsViewer
 
         private void LoadWords()
         {
-            _list = CambridgeAPI.ReadJson(_settings.InputFile);
-            _list = (from word in _list
+            btnSave.Enabled = false;
+            _fullList = CambridgeAPI.ReadJson(_settings.InputFile);
+            _list = (from word in _fullList
                      where (_settings.Level0 && word.Level == 0) ||
                      (_settings.Level1 && word.Level == 1) ||
                      (_settings.Level2 && word.Level == 2) ||
@@ -91,13 +93,13 @@ namespace CambridgeWordsViewer
             sb.Append(@"{\rtf1\ansi");
             foreach (var m in word.Meanings)
             {
-                sb.Append(@$" \b{m.Usage} {m.From} - {m.To}\b0 \line ");
+                sb.Append(@$"\b {m.Usage} {m.From} - {m.To} \b0 \line ");
                 foreach (var e in m.Examples)
                     sb.Append(@$"{e.From} - {e.To} \line ");
                 if (m.Phrases.Count > 0)
                 {
                     sb.Append(@" \line ");
-                    sb.Append(@" \b Phrases: \b0 \line ");
+                    sb.Append(@"\b Phrases: \b0 \line ");
                     foreach (var p in m.Phrases)
                         sb.Append(@$"{p.From} - {p.To} \line ");
                 }
@@ -105,7 +107,7 @@ namespace CambridgeWordsViewer
                 if (m.Synonyms.Count > 0)
                 {
                     sb.Append(@"\line ");
-                    sb.Append(@" \b Synonyms: \b0 \line ");
+                    sb.Append(@"\b Synonyms: \b0 \line ");
                     foreach (var s in m.Synonyms)
                         sb.Append(@$"{s}\line ");
                 }
@@ -113,7 +115,7 @@ namespace CambridgeWordsViewer
                 if (m.Antonyms.Count > 0)
                 {
                     sb.Append(@"\line ");
-                    sb.Append(@" \b Antonyms: \b0 \line ");
+                    sb.Append(@"\b Antonyms: \b0 \line ");
                     foreach (var a in m.Antonyms)
                         sb.Append(@$"{a}\line ");
                 }
@@ -123,6 +125,7 @@ namespace CambridgeWordsViewer
 
             richTextBox1.Rtf = sb.ToString();
             lCounter.Text = $"{_current} / {_list.Count}";
+            numLevel.Value = word.Level;
         }
 
         private void btnPrevious_Click(object sender, EventArgs e)
@@ -151,6 +154,28 @@ namespace CambridgeWordsViewer
         private void Form1_Load(object sender, EventArgs e)
         {
             LoadWords();
+        }
+
+        private void numLevel_ValueChanged(object sender, EventArgs e)
+        {
+            var word = _list[_current - 1];
+            var originalWord = _fullList.FirstOrDefault(w => w.Text.Equals(word.Text));
+            word.Level = (int)numLevel.Value;
+            if (word.Level != originalWord.Level)
+                btnSave.Enabled = true;
+        }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            btnSave.Enabled = false;
+            foreach (var word in _list)
+            {
+                var originalWord = _fullList.FirstOrDefault(w => w.Text.Equals(word.Text));
+                if (word.Level != originalWord.Level)
+                    originalWord.Level = word.Level;
+            }
+
+            CambridgeAPI.WriteToJson(_fullList, _settings.InputFile);
         }
     }
 }

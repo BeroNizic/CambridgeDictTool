@@ -37,6 +37,7 @@ namespace CambridgeWordsViewer
             this.btnSettings = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.numLevel = new System.Windows.Forms.NumericUpDown();
+            this.btnSave = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.numLevel)).BeginInit();
             this.SuspendLayout();
             // 
@@ -82,9 +83,10 @@ namespace CambridgeWordsViewer
             // richTextBox1
             // 
             this.richTextBox1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.richTextBox1.Location = new System.Drawing.Point(11, 68);
+            this.richTextBox1.Location = new System.Drawing.Point(11, 70);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(773, 612);
+            this.richTextBox1.ReadOnly = true;
+            this.richTextBox1.Size = new System.Drawing.Size(773, 610);
             this.richTextBox1.TabIndex = 4;
             this.richTextBox1.Text = "";
             // 
@@ -118,12 +120,25 @@ namespace CambridgeWordsViewer
             this.numLevel.Name = "numLevel";
             this.numLevel.Size = new System.Drawing.Size(61, 23);
             this.numLevel.TabIndex = 11;
+            this.numLevel.ValueChanged += new System.EventHandler(this.numLevel_ValueChanged);
+            // 
+            // btnSave
+            // 
+            this.btnSave.Enabled = false;
+            this.btnSave.Location = new System.Drawing.Point(712, 41);
+            this.btnSave.Name = "btnSave";
+            this.btnSave.Size = new System.Drawing.Size(75, 23);
+            this.btnSave.TabIndex = 12;
+            this.btnSave.Text = "Save";
+            this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(799, 692);
+            this.Controls.Add(this.btnSave);
             this.Controls.Add(this.numLevel);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnSettings);
@@ -153,6 +168,7 @@ namespace CambridgeWordsViewer
         private System.Windows.Forms.Button btnSettings;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.NumericUpDown numLevel;
+        private System.Windows.Forms.Button btnSave;
     }
 }
 
