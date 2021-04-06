@@ -14,14 +14,32 @@ namespace CambridgeDictTool
         private static async System.Threading.Tasks.Task Main(string[] args)
         {
             //Console.WriteLine("Hello World!");
-            var words = File.ReadAllLines(args[0]);
+            var inputWordsFile = args[0];
+            if (!File.Exists(inputWordsFile))
+            {
+                Console.WriteLine($"{inputWordsFile} doesn't exist");
+                return;
+            }
+
+            var words = File.ReadAllLines(inputWordsFile);
+            var outputFile = args[1];
             var list = new List<CambridgeWord>();
+            if (File.Exists(outputFile))
+            {
+                var json = File.ReadAllText(outputFile);
+                list = JsonSerializer.Deserialize<List<CambridgeWord>>(json);
+            }
+
             foreach (var word in words)
             {
                 if (!string.IsNullOrWhiteSpace(word))
-                    list.Add(await CambridgeAPI.GetCambridgeWordAsync(word.Trim()));
+                {
+                    if (!list.Any(r => r.Text.Equals(word)))
+                        list.Add(await CambridgeAPI.GetCambridgeWordAsync(word.Trim()));
+                }
             }
-            CambridgeAPI.WriteToJson(list, args[1]);
+
+            CambridgeAPI.WriteToJson(list, outputFile);
         }
     }
 }

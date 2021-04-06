@@ -2,7 +2,7 @@
   "profiles": {
     "CambridgeDictTool": {
       "commandName": "Project",
-      "commandLineArgs": "\"C:\\temp\\CambridgeDict\\words.txt\" \"C:\\temp\\CambridgeDict\\output.json\""
+      "commandLineArgs": "\"C:\\projects\\CambridgeDictTool\\CambridgeWordsViewer\\data\\words.txt\" \"C:\\projects\\CambridgeDictTool\\CambridgeWordsViewer\\data\\output.json\""
     }
   }
 }
